@@ -20,7 +20,7 @@
     "gatsby-plugin-sharp": "^2.2.7",
     "gatsby-plugin-sitemap": "^2.2.3",
     "gatsby-source-filesystem": "^2.1.5",
-    "gatsby-source-wordpress": "^3.1.9",
+    "gatsby-source-wordpress": "^4.0.8",
     "gatsby-transformer-sharp": "^2.2.3",
     "lodash": "^4.17.15",
     "mdbreact": "^4.19.0",
